@@ -1,4 +1,7 @@
-https://github.com/bilalelghazzal/Desktop_application_for_Student_Management/issues/2#issue-2974983347
+![Image](https://github.com/user-attachments/assets/9033f0d3-c7df-45c0-b515-85c0e814f4a8)
+
+
+
 🔑 1. User Authentication
 
 Secure login via an authentication screen.
