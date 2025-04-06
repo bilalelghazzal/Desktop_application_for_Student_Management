@@ -1,6 +1,4 @@
-![Image](https://github.com/user-attachments/assets/9033f0d3-c7df-45c0-b515-85c0e814f4a8)
-
-
+![Image](https://github.com/user-attachments/assets/208ffd4b-ba4f-4817-bcba-a6d3f1377753)
 
 🔑 1. User Authentication
 
